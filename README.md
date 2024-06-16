@@ -6,8 +6,9 @@ In this project with the help of Machine Learning, I have classified a water sam
 
 
 ## Demo
-![image](![WhatsApp Image 2024-06-17 at 12 35 23 AM](https://github.com/Bhuvan588/Water-Quality-Prediction/assets/68458621/65a7eb00-3c20-4167-ac53-d0b90d9b1349)
-![image2]![WhatsApp Image 2024-06-17 at 12 35 52 AM](https://github.com/Bhuvan588/Water-Quality-Prediction/assets/68458621/47a64b26-ff7c-42fe-ae2c-1f6cf5a8c9bf)
+![WhatsApp Image 2024-06-17 at 12 35 23 AM](https://github.com/Bhuvan588/Water-Quality-Prediction/assets/68458621/e9c651bf-8909-4b15-95d2-0db729cbad28)
+![WhatsApp Image 2024-06-17 at 12 35 52 AM](https://github.com/Bhuvan588/Water-Quality-Prediction/assets/68458621/6874f6f0-e68a-4ae6-9b14-9901b3e55130)
+
 
 
 
